@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Record Management System - CRUD Application
 
 A complete full-stack web application for managing student records with Create, Read, Update, and Delete operations.
@@ -303,3 +304,7 @@ Developed as a full-stack CRUD application exercise.
 ---
 
 **Happy Coding! 🚀**
+=======
+# Student_Management_system
+Developed a complete CRUD-based Student Record Management System using Express.js, SQLite, HTML, CSS, and JavaScript, with search, filtering, validation, and responsive design features
+>>>>>>> 5e6fabdb0e19c17bfe66b779e7cb487a4c4b1e47
